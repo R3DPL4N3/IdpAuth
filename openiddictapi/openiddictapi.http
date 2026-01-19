@@ -1,0 +1,6 @@
+@openiddictapi_HostAddress = http://localhost:5063
+
+GET {{openiddictapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

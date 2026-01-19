@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="clientsapi/clientsapi.csproj" />
+  <Project Path="openiddictapi/openiddictapi.csproj" />
+  <Project Path="webassemblyclient/webassemblyclient.csproj" />
+</Solution>
